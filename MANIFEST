@@ -1,0 +1,8 @@
+Changes
+LICENSE
+Makefile.PL
+MANIFEST
+lib/MasonX/Request/ExtendedCompRoot/WithApacheSession.pm
+README
+t/01.t
+META.yml                                Module meta-data (added by MakeMaker)
